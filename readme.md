@@ -1,6 +1,13 @@
 Token Information
-Token: Tutski Inu Symbol: Ski
-Network: Binance Smart Chain Total Supply: 1,000,000,000,000
+
+Token: Tutski Inu 
+
+Symbol: Ski
+
+Network: Binance Smart Chain 
+
+Total Supply: 1,000,000,000,000
+
 Contract: 0x0cdd6adc297f64d797d3677af95a0c051c420bac
 
 Web site: https://www.tutskitoken.com/
