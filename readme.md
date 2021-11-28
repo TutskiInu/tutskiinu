@@ -30,8 +30,8 @@ Tutski Inu has 3 main functions:
 
 Reflection + LP gain + Burn on every trade.
 
-20% commission split into two channels:
+10% commission split into two channels:
 
-10% tax is distributed to all token holders.
+5% tax is distributed to all token holders.
 
-10% tax is added as BNB sales and 5% is added as a liquidity pair in PANCAKESWAP.
+5% tax is added as BNB sales and 2.5% is added as a liquidity pair in PANCAKESWAP.
